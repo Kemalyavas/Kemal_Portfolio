@@ -81,7 +81,7 @@ export const projects: Project[] = [
       tr: 'İş belgeleri için RAG destekli AI chatbot. Python, FastAPI ve React ile geliştirildi. Şirketlerin dahili belgelerini doğal dil kullanarak sorgulamasını sağlar.',
     },
     tags: ['Python', 'FastAPI', 'React', 'AI', 'RAG', 'Claude API'],
-    images: ['/projects/neoone-1.png'],
+    images: ['/projects/neoone-logo.svg'],
   },
   {
     id: 'inspection-system',
