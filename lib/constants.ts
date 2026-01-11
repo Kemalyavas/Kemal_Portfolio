@@ -101,7 +101,7 @@ export const projects: Project[] = [
       tr: '3D anonim duygu paylaşım platformu. Kullanıcılar duygularını interaktif 3D uzayda gezegenlerin etrafında dönen parlayan yıldızlar olarak paylaşıyor.',
     },
     tags: ['Three.js', 'React Three Fiber', 'Next.js', 'Supabase', 'WebGL'],
-    link: 'https://duygu-evreni.vercel.app',
+    link: 'https://duyguevreni.com',
     images: ['/projects/duygu-evreni-1.png'],
   },
 ]
